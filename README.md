@@ -49,8 +49,8 @@ a Software Engineer and Developer
 
 ### Badges
 <span>
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=R-nasPT&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-nasPT&layout=donut" alt="Top Languages" /></p>
+<span align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=R-nasPT&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></span>
+<span align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-nasPT&layout=donut" alt="Top Languages" /></span>
 </span>
 
 <span align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie" alt="Top Languages" /></span>
