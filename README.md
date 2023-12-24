@@ -9,8 +9,7 @@ a Software Engineer and Developer
 
 ### Skills
 
-
-### Frontend Skills
+<b>Frontend Skills</b>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -25,7 +24,7 @@ a Software Engineer and Developer
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Redux.svg" width="36" height="36" alt="Redux" /></a>
 </p>
 
-### Backend Skills
+<b>Backend Skills</b>
 <p align="left">
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://t4.ftcdn.net/jpg/05/94/91/65/240_F_594916517_tzdzMm5259Tc2nEDEugznBPyZ5Gb6W1S.jpg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/ExpressJS-Dark.svg" width="36" height="36" alt="Express" /></a>
@@ -34,7 +33,7 @@ a Software Engineer and Developer
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" width="36" height="36" alt="Microsoft SQL Server" /></a>
 </p>
 
-### Tools
+<b>Tools</b>
 <p align="left">
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="36" height="36" alt="Postman" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Git.svg" width="36" height="36" alt="Git" /></a>
@@ -43,11 +42,13 @@ a Software Engineer and Developer
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/jira.svg" width="36" height="36" alt="Jira" /></a>
 </p>
 
-### Socials
+<b>Socials</b>
 
 <p align="left"> <a href="https://www.github.com/R-nasPT" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Github-Dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yotsatorn-pathan-73033326a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg" width="32" height="32" /></a></p>
 
 ### Badges
+<b>My GitHub Stats</b>
+
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=R-nasPT&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 <!-- <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-nasPT&layout=donut" alt="Top Languages" /></p> -->
 <!-- <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-nasPT&layout=pie" alt="Top Languages" /></p> -->
