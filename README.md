@@ -53,6 +53,4 @@ a Software Engineer and Developer
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R-nasPT&langs_count=8)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R-nasPT&layout=compact)
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=R-nasPT&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R-nasPT&layout=donut)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)
+
