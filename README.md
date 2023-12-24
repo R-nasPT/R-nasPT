@@ -53,4 +53,4 @@ a Software Engineer and Developer
 <!-- <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-nasPT&layout=pie" alt="Top Languages" /></p> -->
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-nasPT&layout=donut-vertical" alt="Top Languages" /></p>
 
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=R-nasPT&" alt="mydjolie" /></p>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=R-nasPT&" alt="R-nasPT" /></p>
