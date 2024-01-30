@@ -41,6 +41,7 @@ a Software Engineer and Developer
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="36" height="36" alt="Visual Studio Code" /></a>
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/npm.svg" width="36" height="36" alt="NPM" /></a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/jira.svg" width="36" height="36" alt="Jira" /></a>
+  <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/yarnpkg_logo_icon_170667.png" width="36" height="36" alt="Yarn" /></a>
 </p>
 
 <b>Socials</b>
@@ -51,8 +52,8 @@ a Software Engineer and Developer
 <b>My GitHub Stats</b>
 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=R-nasPT&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-nasPT&layout=donut" alt="Top Languages" /></p>
+<!-- <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-nasPT&layout=donut" alt="Top Languages" /></p> -->
 <!-- <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-nasPT&layout=pie" alt="Top Languages" /></p> -->
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-nasPT&layout=donut-vertical" alt="Top Languages" /></p>
+<!-- <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-nasPT&layout=donut-vertical" alt="Top Languages" /></p> -->
 
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=R-nasPT&" alt="R-nasPT" /></p>
