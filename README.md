@@ -1,5 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yotsatorn Pathan
-========================================================================================================================================
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+
+  <a href="https://www.linkedin.com/in/yotsatorn-pathan-73033326a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"/></a>
+<a href="https://www.github.com/R-nasPT" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="logo-github"/></a>
+</div>
+
+
+<div id="header" align="center">
+<h1>Hi, I'm Yotsatorn Pathan</h1>
+</div>
 
 a Software Engineer and Developer
 ---------------------------------
