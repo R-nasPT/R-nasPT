@@ -11,13 +11,14 @@
 <h1>Hi, I'm Yotsatorn Pathan</h1>
 </div>
 
-a Software Engineer and Developer
+:woman_technologist: About Me
 ---------------------------------
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [yotsatorn.pa@gmail.com](mailto:yotsatorn.pa@gmail.com)
+<hr>
 
-### Skills
+## :hammer_and_wrench: Languages and Tools
 
 <b>Frontend Skills</b>
 <p align="left">
@@ -43,7 +44,7 @@ a Software Engineer and Developer
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" width="36" height="36" alt="Microsoft SQL Server" /></a>
 </p>
 
-<b>Tools</b>
+<b>Other</b>
 <p align="left">
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="36" height="36" alt="Postman" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Git.svg" width="36" height="36" alt="Git" /></a>
@@ -53,12 +54,12 @@ a Software Engineer and Developer
   <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/yarnpkg_logo_icon_170667.png" width="36" height="36" alt="Yarn" /></a>
 </p>
 
-<b>Socials</b>
+<!-- <b>Socials</b>
 
-<p align="left"> <a href="https://www.github.com/R-nasPT" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Github-Dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yotsatorn-pathan-73033326a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/R-nasPT" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Github-Dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yotsatorn-pathan-73033326a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg" width="32" height="32" /></a></p> -->
+<hr>
 
-### Badges
-<b>My GitHub Stats</b>
+## 📈 My Stats 
 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=R-nasPT&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 <!-- <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-nasPT&layout=donut" alt="Top Languages" /></p> -->
