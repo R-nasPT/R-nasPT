@@ -8,14 +8,13 @@
 
 
 <div id="header" align="center">
-<h1>Hi, I'm Yotsatorn Pathan</h1>
+<h1>Hi, I'm Yotsatorn Pathan :wave: </h1>
 </div>
 
 :woman_technologist: About Me
 ---------------------------------
 
-* 🌍  I'm based in Bangkok, Thailand
-* ✉️  You can contact me at [yotsatorn.pa@gmail.com](mailto:yotsatorn.pa@gmail.com)
+I'm a front-end developer passionate about crafting engaging and dynamic user experiences. With a strong foundation in front-end technologies, I specialize in building intuitive web applications that not only look great but also perform exceptionally well. Constantly seeking to expand my skill set, I enjoy learning about the latest trends and advancements in web development.
 <hr>
 
 ## :hammer_and_wrench: Languages and Tools
