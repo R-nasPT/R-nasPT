@@ -42,7 +42,7 @@ const Yotsatorn = {
             databases: ["MongoDB", "PostgreSQL", "SQL Server"]
         },
         devOps: ["GitHub Actions"],
-        tools: ["Figma", "Postman", "Vite", "VS Code", "Jira"]
+        tools: ["Figma", "Postman", "Vite", "VS Code", "Jira", "Clickup"]
     },
     currentFocus: "Building products that users love",
     funFact: "I debug with console.log and I'm proud of it! 🎯"
@@ -58,11 +58,7 @@ const Yotsatorn = {
 ### ⚡ Core Technologies
 <div>
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,redux,vite&theme=dark" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Zustand-FFD93D?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iOCIgY3k9IjEwIiByPSIxLjUiIGZpbGw9ImJsYWNrIi8+CjxjaXJjbGUgY3g9IjE2IiBjeT0iMTAiIHI9IjEuNSIgZmlsbD0iYmxhY2siLz4KPHBhdGggZD0iTTkgMTZDOSAxNiAxMCAxNyAxMiAxN0MxNCAxNyAxNSAxNiAxNSAxNiIgc3Ryb2tlPSJibGFjayIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPC9zdmc+&logoColor=black" alt="Zustand" />
-  <img src="https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Context API" />
+  <a href="https://zustand.surge.sh/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/990a9efe0b9529eca38ca9e081bc7a97b18dff45/topics/zustand/zustand.png" width="48" height="48" alt="Zustand"></a>
 </div>
 
 ### 🎨 Frontend Ecosystem
