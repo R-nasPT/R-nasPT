@@ -56,6 +56,7 @@ const yotsatorn = {
 <br clear="both">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284115-3da2c537-a8da-43c7-b2ae-9323ca7e8b23.gif" width="30"> Tech Stack & Tools
+
 <!--
 ### 💫 My Expertise Level
 <div align="center">
@@ -70,6 +71,7 @@ const yotsatorn = {
 
 </div>
 -->
+
 <details open>
 <summary><b>🎨 Frontend Technologies</b></summary>
 <br>
@@ -142,6 +144,7 @@ const yotsatorn = {
   <img src="https://github-profile-trophy.vercel.app/?username=R-nasPT&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy" />
 </div>
 
+<!--
 ## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30"> Recent Projects
 
 <div align="center">
@@ -149,6 +152,7 @@ const yotsatorn = {
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=R-nasPT&repo=R-nasPT&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9&icon_color=A78BFA" />
   </a>
 </div>
+-->
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> Random Dev Quote
 
