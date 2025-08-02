@@ -43,7 +43,7 @@ const yotsatorn = {
             stateManagement: ["Zustand", "Redux", "Context API"]
         },
         backEnd: {
-            js: ["Node.js", "Express"],
+            js: ["Node.js", "Express.js"],
             databases: ["MongoDB", "PostgreSQL", "SQL Server"]
         },
         tools: ["Git", "Postman", "Vite", "VS Code", "Jira"]
