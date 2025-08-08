@@ -151,7 +151,7 @@ JSON         45 mins         █░░░░░░░░░░░░░░░░
   <br>
   <b>Let's build something amazing together!</b>
   <br><br>
-  <a href="yotsatorn.pa@gmail.com">
+  <a href="mailto:yotsatorn.pa@gmail.com">
     <img src="https://img.shields.io/badge/-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/yotsatorn-pathan-73033326a">
