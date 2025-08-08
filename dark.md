@@ -151,7 +151,7 @@ JSON         45 mins         █░░░░░░░░░░░░░░░░
   <br>
   <b>Let's build something amazing together!</b>
   <br><br>
-  <a href="mailto:yotsatorn.pa@gmail.com">
+  <a href="mailto:yotsatorn.pa@gmail.com?subject=Contact%20from%20GitHub%20Profile&body=Hi%20Yotsatorn%2C%0A%0AI%20am%20interested%20in%20working%20with%20you...">
     <img src="https://img.shields.io/badge/-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/yotsatorn-pathan-73033326a">
