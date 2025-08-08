@@ -35,7 +35,7 @@ const Yotsatorn = {
         frontEnd: {
             js: ["React.js", "Next.js"],
             css: ["Tailwind", "Material-UI", "Styled-Components"],
-            stateManagement: ["Zustand", "Redux", "Context API"
+            stateManagement: ["Zustand", "Redux", "Context API"]
         },
         backEnd: {
             js: ["Node.js", "Express.js"],
